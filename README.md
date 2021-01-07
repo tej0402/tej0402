@@ -37,7 +37,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.tej0402.vercel.app/api/spotify" alt="tej0402 Spotify Playing" width="350" />](https://open.spotify.com/user/31bnau7ajkzl7z5bmuoi7r4u4xta)
+[![Spotify](https://novatorem.tej0402.vercel.app/api/spotify)](https://open.spotify.com/user/31bnau7ajkzl7z5bmuoi7r4u4xta)
 ---
 
 ### 📕 Latest Blog Posts
