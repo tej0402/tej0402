@@ -1,4 +1,4 @@
-### Hi there, I'm Tej - aka [CyberNinjat3j][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> from India <img src="https://media.giphy.com/media/pjd1jNxYFr5ygwVV1c/giphy.gif" width="25px">
+### Hi there, I'm Tej - aka [CyberNinjat3j][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> from India <img src="https://gph.is/g/ZWlLp6J" width="25px">
 
 [![Website](https://img.shields.io/website?label=tejkumar.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://tejkumar.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CyberT3j?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftej0402&screen_name=CyberNinjaT3j)
