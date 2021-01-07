@@ -35,7 +35,7 @@
 ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 
-### Spotify Playing 🎧
+### Now Listening To.. 🎧
 
 [![Spotify](https://novatorem.tej0402.vercel.app/api/spotify)](https://open.spotify.com/user/31bnau7ajkzl7z5bmuoi7r4u4xta)
 ---
@@ -61,6 +61,10 @@
   <img align="left" alt="tej0402's GitHub Stats" src="https://github-readme-stats.tej0402.vercel.app/api?username=tej0402&show_icons=true&theme=dark" />
 
 </details>
+
+---
+### 💻 Technologies
+https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 
 [website]: http://tejkumar.in
 [course]: http://#
