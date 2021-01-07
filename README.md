@@ -54,7 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="tej0402's GitHub Stats" src="github-readme-stats.tej0402.vercel.app/api?username=tej0402&show_icons=true&theme=dark" />
+  <img align="left" alt="tej0402's GitHub Stats" src="https://github-readme-stats.tej0402.vercel.app/api?username=tej0402&show_icons=true&theme=dark" />
 
 </details>
 
