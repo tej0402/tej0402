@@ -10,10 +10,6 @@
 - 🥅 2021 Goals: To become Digital Forensic Investigator
 - ⚡ Fun fact: I love cooking, photography and water coloring
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="CyberNinjaT3j Spotify Playing" width="350" />](https://open.spotify.com/user/31bnau7ajkzl7z5bmuoi7r4u4xta)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
