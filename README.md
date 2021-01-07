@@ -64,7 +64,7 @@
 
 ---
 ### 💻 Technologies
-https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+<img height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width:100%">
 
 [website]: http://tejkumar.in
 [course]: http://#
