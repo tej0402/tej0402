@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: To become Digital Forensic Investigator
-- ⚡ Fun fact: I love cooking, photography and water coloring
+- ⚡ I love cooking, photography and water coloring
 
 ### Connect with me:
 
