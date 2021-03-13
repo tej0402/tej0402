@@ -1,4 +1,4 @@
-### Hi there, I'm Tej - aka [Cyber Ninja T3j][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> from India <img src="https://png.pngtree.com/png-clipart/20200401/original/pngtree-india-flag-transparent-watercolor-painted-brush-png-image_5331382.jpg" width="25px">
+### Hi there, I'm Tej - aka [Cyber Ninja T3j][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> from India <img src="https://media.giphy.com/media/QsgF8ZcGwwZjUOJf3d/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/website?label=tejkumar.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://tejkumar.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CyberT3j?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftej0402&screen_name=CyberT3j)
