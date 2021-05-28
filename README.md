@@ -36,11 +36,10 @@
 
 
 
-### 📕 Latest Blog Posts
+### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
- - [Blog Posts on the way!](http://blog.tejkumar.in)
----
+ - [Click Here](http://blog.tejkumar.in)
 
 ---
 ### 💻 Technologies
