@@ -37,8 +37,6 @@
 
 ### Now Listening To.. 🎧
 
-[![Spotify](https://novatorem.tej0402.vercel.app/api/spotify)](https://open.spotify.com/user/31bnau7ajkzl7z5bmuoi7r4u4xta)
----
 
 ### 📕 Latest Blog Posts
 
