@@ -35,30 +35,12 @@
 ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 
-### Now Listening To.. 🎧
-
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
  - [Blog Posts on the way!](http://blog.tejkumar.in)
-<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END
-
-➡️ [more blog posts...](https://codestackr.com) -->
 ---
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="tej0402's GitHub Stats" src="https://github-readme-stats.tej0402.vercel.app/api?username=tej0402&show_icons=true&theme=dark" />
-
-</details>
 
 ---
 ### 💻 Technologies
